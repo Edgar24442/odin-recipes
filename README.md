@@ -8,14 +8,14 @@ Iteration 1: initial structure:
     * Fill it out with the usual boilerplate HTML and add an h1 heading "Odin Recipes" to the body.
 
 Iteration 2: recipe page
-    * Create a new directory within the odin-recipes directory and name it recipes.
-    * Create a new HTML file within the recipes and name it after the recipe it will contain. 
-      EX pizza.html.
-    * Include h1 heading with the recipe's name as it content.
-    * Back in the index.html file, add a link to the recipe page you just created. m
-    EX: under the <h1>Odin Recipes</h1> , write out the link like so: 
-    <a href=/"recipes/recipename.html>Recipe Title</a> 
-    The text of the link should be again be the recipe name.
+  * Create a new directory within the odin-recipes directory and name it recipes.
+  * Create a new HTML file within the recipes and name it after the recipe it will contain. 
+    EX pizza.html.
+  * Include h1 heading with the recipe's name as it content.
+  * Back in the index.html file, add a link to the recipe page you just created. m
+  EX: under the <h1>Odin Recipes</h1> , write out the link like so: 
+  a href=/"recipes/recipename.html>Recipe Title</a> 
+  The text of the link should be again be the recipe name.
 
 Iteration 3: Recipe page content
 The page will have the following content:
@@ -32,4 +32,3 @@ Iteration 4: add more recipes
     created.
   * Don’t forget to link to the new recipes on the index page. Also, consider putting all the  
     links in an unordered list so they aren’t all on one line.
-    
