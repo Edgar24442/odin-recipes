@@ -16,3 +16,20 @@ Iteration 2: recipe page
     EX: under the <h1>Odin Recipes</h1> , write out the link like so: 
     <a href=/"recipes/recipename.html>Recipe Title</a> 
     The text of the link should be again be the recipe name.
+
+Iteration 3: Recipe page content
+The page will have the following content:
+  * An image of the finished dish under h1 heading that was added. 
+  * Under the image, it should have an appropriately sized "Description"
+   heading followed by a paragraph or two describing the recipe. 
+  * Under the description, add an "Ingredients" heading followed by an unordered list of 
+    ingredients needed for the recipe.
+  * Finally, under the ingredients list, add a "Steps" heading followed by an ordered list of 
+    steps needed for making the dish.
+
+Iteration 4: add more recipes
+  * Add two more recipes with identical page structures to the recipe page you’ve already      
+    created.
+  * Don’t forget to link to the new recipes on the index page. Also, consider putting all the  
+    links in an unordered list so they aren’t all on one line.
+    
