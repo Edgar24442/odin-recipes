@@ -14,7 +14,7 @@ Iteration 2: recipe page
   * Include h1 heading with the recipe's name as it content.
   * Back in the index.html file, add a link to the recipe page you just created. m
   EX: under the <h1>Odin Recipes</h1> , write out the link like so: 
-  a href=/"recipes/recipename.html>Recipe Title</a> 
+  <a> href=/"recipes/recipename.html>Recipe Title</a> 
   The text of the link should be again be the recipe name.
 
 Iteration 3: Recipe page content
